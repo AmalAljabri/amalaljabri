@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**AmalAljabri/amalaljabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Amal 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  IT Engineer | AI Enthusiast | Systems Development | Data Analysis
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Passionate about technology, intelligent solutions, and transforming data into meaningful insights.
+</p>
+
+### 🌐 My Website
+
+<p align="center">
+  <a href="https://amalaljabri.github.io/">
+    Visit My Personal Website
+  </a>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ✨
+</p>
